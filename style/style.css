@@ -1,0 +1,40 @@
+.t,tr,th{
+    border: 1px solid black;
+    padding: 10px;
+}
+th{
+    margin: 5px;
+}
+.b{
+    width: 30px;
+    height: 30px;
+    background-color: bisque;
+}
+.b1{
+    width: 50px;
+    height: 40px;
+    background-color: azure;
+}
+.t{
+    background-color: #36C2CE;
+    margin: 0px 645px;
+}
+p{
+    text-align: center;
+    font-size: larger;
+}
+.b2{
+    background-color: red;
+    color: white;
+}
+table{
+    padding-left: 2px;
+}
+body{
+    padding-top: 100px;
+    background-color: #FFF8F3;
+}
+.b:hover{
+    background-color: #758694;
+
+}
